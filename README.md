@@ -1,4 +1,9 @@
-# HotstarClone
+
 # Completely built with Html5,Css3 & Javascript
-# Demo
+# HotstarClone
+
+# user can choose the movies from different geners 
+# Also User Can Watch regional language movies als
+
+## Deployed Site
 https://jovial-knuth-52283b.netlify.app
