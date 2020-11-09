@@ -3,7 +3,10 @@
 # HotstarClone
 
 # user can choose the movies from different geners 
-# Also User Can Watch regional language movies als
+# Also User Can Watch regional language movies also
+
+# Screenshots
+
 
 ## Deployed Site
 https://jovial-knuth-52283b.netlify.app
